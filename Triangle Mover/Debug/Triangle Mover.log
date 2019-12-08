@@ -1,0 +1,11 @@
+﻿  Triangle mover.cpp
+d:\games\c++ games\triangle mover\triangle mover\angel.h(66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\games\c++ games\triangle mover\triangle mover\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\triangle mover\triangle mover\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\triangle mover\triangle mover\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\triangle mover\triangle mover\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\triangle mover\triangle mover\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\triangle mover\triangle mover\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\triangle mover\triangle mover\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\triangle mover\triangle mover\triangle mover.cpp(75): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Triangle Mover.vcxproj -> D:\Games\C++ games\Triangle Mover\Debug\Triangle Mover.exe
